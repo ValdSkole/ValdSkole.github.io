@@ -6,7 +6,7 @@ body, h1, h2, p, uI, li{
 
 /* Apply some basic styles */
 body{
-  font-family: Arial, sans-serif
+  font-family: Arial, sans-serif;
   background-color: #f2f2f2;
   color: #333;
 }
