@@ -12,7 +12,7 @@ body{
 }
 
 header {
-  background-color: #333;
+  background-color: #D3D3D3;
   padding: 20px;
 }
 
@@ -24,4 +24,5 @@ h1{
 
 nav uI{
   list-style: none;
+  color: #333;
 }
